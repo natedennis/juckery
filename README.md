@@ -1,0 +1,1 @@
+Juckery ( aka Java Fuckery ) is simply a place were the lines between right and wrong are blurred in java trickery.
