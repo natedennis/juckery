@@ -6,6 +6,9 @@ public class Juckery {
 
         boolean c​lass = true;
 
+        boolean _​ = true;
+
+
         if (c​lass) {
             System.out.println("masters of the craft");
         }
